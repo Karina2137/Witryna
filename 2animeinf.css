@@ -1,0 +1,69 @@
+.linki{
+    position: absolute;
+    top: 0px; 
+    left: 0px;   
+    background-color: rgb(135, 210, 236);
+    width: 100%;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    z-index: 10;
+    text-align: justify;
+    padding: 13px;
+    padding-left: 0px;
+    padding-right: 0px;
+    position: fixed;
+}
+.linki a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 35px;
+}
+a:hover {
+   color: rgb(0, 152, 203);
+}
+a:active {
+    color: rgb(0, 152, 203);
+}
+.pochodz{
+    top: 13%;
+}
+.recen{
+
+}
+.sez{
+
+}
+.muz{
+
+}
+h2{
+    background-color: rgb(135, 210, 236);
+    text-align: center;
+    justify-content: space-around;
+    color: rgb(255, 255, 255);
+    border: 3px rgb(0, 152, 203) solid ;
+}
+h4{
+    font-size: 25px;
+}
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+img{
+    height: 95%;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.cal{
+    margin-left: 200px;
+    margin-right: 200px;
+    color: rgb(0, 0, 0);
+    background-color: rgb(255, 255, 255);
+    border: rgb(0, 152, 203) solid 3px ;
+    font-size: 25px;
+    padding: 10px;
+}

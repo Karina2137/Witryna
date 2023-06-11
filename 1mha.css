@@ -1,0 +1,42 @@
+.linki{
+    position:fixed;
+    top: 55%;    
+    right: 0px;
+    left: 0px;
+ 
+    display: flex;
+    justify-content: space-around;
+    z-index: 10;
+    text-align: center;
+    padding: 13px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+.linki a{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 48px;
+    background-color: rgb(135, 210, 236);
+    max-width: fit-content;
+    max-height: fit-content;
+}
+a:hover {
+    color: rgb(0, 152, 203);
+    background-color: rgb(135, 210, 236);
+ }
+ a:active {
+     color: rgb(0, 152, 203);
+     background-color: rgb(135, 210, 236);
+ }
+body{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+img{
+    height: 95%;
+    width: 100%;
+    padding-left: 0px;
+    padding-right: 0px;
+}
