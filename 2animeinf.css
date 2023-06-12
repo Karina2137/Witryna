@@ -28,15 +28,6 @@ a:active {
 .pochodz{
     top: 13%;
 }
-.recen{
-
-}
-.sez{
-
-}
-.muz{
-
-}
 h2{
     background-color: rgb(135, 210, 236);
     text-align: center;
@@ -59,8 +50,8 @@ img{
     padding-right: 0px;
 }
 .cal{
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 8%;
+    margin-right: 8%;
     color: rgb(0, 0, 0);
     background-color: rgb(255, 255, 255);
     border: rgb(0, 152, 203) solid 3px ;
